@@ -1,0 +1,4 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">gd-dnX2Rvn3YIdmddtTPa5nbeUinX0lOjWZIv</string>
+    <string name="app_name">instawalkin</string>
+</resources>
